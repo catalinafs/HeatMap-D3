@@ -1,6 +1,5 @@
 :root {
     --backgroundColor: #454545;
-    /* --backgroundColor: #696969; */
     --SVGbackgroundColor: #f5f5f5;
     --DescriptionText: #f5f5f5;
     --Text: #252525;
@@ -44,10 +43,6 @@ h4 {
     transform: rotate(90deg);
     margin-top: -30px;
 }
-
-/* #legend rect {
-    height: 100%;
-} */
 
 svg {
     background-color: var(--SVGbackgroundColor);
